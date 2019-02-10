@@ -1,0 +1,19 @@
+{
+  "name": "api_tiendyn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitJulio/api_tiendyn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitJulio/api_tiendyn/issues"
+  },
+  "homepage": "https://github.com/gitJulio/api_tiendyn#readme"
+}
