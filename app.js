@@ -28,5 +28,5 @@ app.use('/api/alumnos', cors(op), alumnosRouter);
 
 
 app.listen(process.env.PORT, () => {
-  console.log("Api Puxbit is up");
+  console.log("Api Tiendyn is up");
 })
